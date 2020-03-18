@@ -468,6 +468,15 @@ Ext.define('Hamsket.store.ServicesList', {
 			,js_unread: `let checkUnread=()=>{let t=0;const badges=document.querySelectorAll(".bufferBadges > .badge");for(let n of badges)t+=n.textContent?parseInt(n.textContent,10):0;hamsket.updateBadge(t)};setInterval(checkUnread,3e3);`
 			,custom_domain: true
 		},
+    {
+			 id: 'glowingbear'
+			 ,logo: 'glowingbear.png'
+			 ,name: 'Glowing Bear'
+			 ,description: 'Glowing Bear is a web frontend for the WeeChat IRC client and strives to be a modern interface.'
+			 ,url: 'https://www.glowing-bear.org/'
+			 ,type: 'messaging'
+			,custom_domain: true
+    },
 		{
 			 id: 'ryver'
 			,logo: 'ryver.png'
