@@ -38,7 +38,7 @@
 
 - [Table of Contents](#table-of-contents)
 - [Screenshot](#screenshot)
-- [Services available - 94](#services-available---94)
+- [Services available - 96](#services-available---96)
 - [Features](#features)
 - [Privacy](#privacy)
 - [Donations](#donations)
@@ -56,7 +56,7 @@
 
 ----------
 
-## Services available - 94
+## Services available - 96
 
 <img width="80" align="left" src="./resources/icons/whatsapp.png" alt="WhatsApp" title="WhatsApp">
 <img width="80" align="left" src="./resources/icons/messenger.png" alt="Messenger" title="Messenger">
@@ -66,6 +66,7 @@
 <img width="80" align="left" src="./resources/icons/telegram.png" alt="Telegram" title="Telegram">
 <img width="80" align="left" src="./resources/icons/wechat.png" alt="WeChat" title="WeChat">
 <img width="80" align="left" src="./resources/icons/gmail.png" alt="Gmail" title="Gmail">
+<img width="80" align="left" src="./resources/icons/googlecalendar.png" alt="Google Calendar" title="Google Calendar">
 <img width="80" align="left" src="./resources/icons/hipchat.png" alt="HipChat" title="HipChat">
 
 <img width="80" align="left" src="./resources/icons/chatwork.png" alt="ChatWork" title="ChatWork">
@@ -116,6 +117,7 @@
 <img width="80" align="left" src="./resources/icons/icloud.png" alt="iCloud Mail" title="iCloud Mail">
 <img width="80" align="left" src="./resources/icons/irccloud.png" alt="IRC Cloud" title="IRC Cloud">
 <img width="80" align="left" src="./resources/icons/kiwi.png" alt="Kiwi IRC" title="Kiwi IRC">
+<img width="80" align="left" src="./resources/icons/glowingbear.png" alt="Glowing Bear" title="Glowing Bear">
 <img width="80" align="left" src="./resources/icons/smooch.png" alt="Smooch" title="Smooch">
 <img width="80" align="left" src="./resources/icons/crisp.png" alt="Crisp" title="Crisp">
 <img width="80" align="left" src="./resources/icons/flock.png" alt="Flock" title="Flock">
